@@ -7,12 +7,9 @@
   "scripts": {
     "build": "npm run build",
     "start": "node index.js"
-<<<<<<< HEAD
   },
   "engines": {
-    "node": ">=14"
-=======
->>>>>>> eb1851c6a13d20923a9cdfb5c2257be3530bce35
+    "node": ">=14 <15"
   },
   "keywords": [],
   "author": "",
